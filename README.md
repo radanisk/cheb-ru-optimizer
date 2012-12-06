@@ -1,4 +1,4 @@
-Cheb.Ru CopyAlert Remover User Script
+Cheb.Ru Optimizer User Script
 ==========================
 
 Убираем назойливые всплывающие предупреждения при копировании текста с cheb.ru.

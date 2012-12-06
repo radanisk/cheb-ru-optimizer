@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name Cheb.Ru CopyAlert Remover
-// @description Cheb.Ru CopyAlert Remover User Script
+// @name Cheb.Ru Optimizer
+// @description Cheb.Ru Optimizer User Script
 // @include http://www.cheb.ru/*
 // @include http://zarulem.ws/*
 // @include http://www.zarulem.ws/*
